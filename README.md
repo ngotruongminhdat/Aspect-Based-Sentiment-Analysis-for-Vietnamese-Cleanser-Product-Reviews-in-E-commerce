@@ -6,12 +6,12 @@ Forecasting aspects and associated sentiments in Vietnamese facial cleanser prod
 The objective is to develop a sentiment analysis system that processes product reviews written in Vietnamese. This system should identify specific aspects of the product mentioned in each review and assess the sentiment related to each of those aspects. The sentiments are categorized into three types: Positive, Neutral, and Negative.
 
 ### Aspects to Identify:
-* Quality (QUALITY): Evaluations regarding the overall quality of the product.
-* Smell (SMELL): Comments on the fragrance of the product.
-* Packaging (PACKING): Observations on the design and quality of the product's packaging.
-* Shipping (SHIPPING): Feedback on the delivery speed and handling of the product.
-* Price (PRICE): Opinions on the product's value for money.
-* Others (OTHERS): Any other aspect not covered by the categories above.
+* Quality: Evaluations regarding the overall quality of the product.
+* Smell: Comments on the fragrance of the product.
+* Packaging: Observations on the design and quality of the product's packaging.
+* Shipping: Feedback on the delivery speed and handling of the product.
+* Price: Opinions on the product's value for money.
+* Others: Any other aspect not covered by the categories above.
 
 ### Sentiment Classification:
 * Positive: A favorable view of the aspect in question.
