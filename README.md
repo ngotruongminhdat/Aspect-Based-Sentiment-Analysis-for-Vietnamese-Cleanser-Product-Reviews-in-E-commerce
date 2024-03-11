@@ -8,7 +8,7 @@ The objective is to develop a sentiment analysis system that processes product r
 ### Aspects to Identify:
 * Quality: Evaluations regarding the overall quality of the product.
 * Smell: Comments on the fragrance of the product.
-* Packaging: Observations on the design and quality of the product's packaging.
+* Packing: Observations on the design and quality of the product's packaging.
 * Shipping: Feedback on the delivery speed and handling of the product.
 * Price: Opinions on the product's value for money.
 * Others: Any other aspect not covered by the categories above.
